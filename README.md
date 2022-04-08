@@ -2,7 +2,7 @@
 
 Includes k-means clustering to reach information gain based distinctive terms, and principal component analysis to explore a dataset of beer ratings and reviews.
 
-## PCA_Beer.ipnynb
+## PCA_Beer.ipynb
 #### Found optimal number of k to capture minimum 95% variance
 #### Created a PCA heatmap
 #### Generated a PCA biplot of 1st and 2nd component
@@ -20,7 +20,7 @@ review_taste :: How appealing is the taste - e.g. is there a good balance of swe
 
 review_overall :: How appealing is the overall experience of drinking this beer?
 
-## Clustering_textdata.ipnynb
+## Clustering_textdata.ipynb
 #### Found optimal number of k to minimize Davies-Bouldin score while maximizing the Calinski-Harabsz score
 #### Calculated information gain to help distinguish one cluster from another
 #### Discovered distinctive terms in each cluster that maximized information gain
